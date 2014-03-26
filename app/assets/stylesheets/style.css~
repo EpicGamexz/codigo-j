@@ -1,0 +1,342 @@
+@font-face
+{
+font-family: raavi;
+src: url('fonts/raavi.ttf') format('ttf'), /* Modern Browsers */
+font-family: raavib;
+src: url('fonts/raavib.ttf') format('ttf'), /* Modern Browsers */
+}
+
+
+/*h1#titulo{
+	font-size: 100px;
+}
+
+h2#subtitulo{
+	font-size: 80px;
+}*/
+
+div.menu{
+	font-size: 20px;
+	margin-right: 8px;
+}
+
+img#center{
+	margin-top:4px;
+}
+
+a{
+	text-decoration: none;
+	color: #ffffff;
+}
+
+p#title{
+	line-height: 1px;
+	font-size: 130px;
+	color: #ffffff;
+	margin-top: 100px;
+	margin-left: 180px;
+}
+
+div#extra{
+	height: 14px;
+}
+
+div#extra2{
+	height: 0.01px;
+}
+
+p#stitle{
+	line-height: 1px;
+	margin-top: 10px;
+	font-size: 90px;
+	color: #ffffff;
+	margin-left: 190px;
+}
+
+div.head{
+	width: 965px;
+	height: 100px;
+	background-color: #ffffff;
+}
+
+div.top{
+	display: inline-block;
+	 float: right;
+}
+
+div.redes{
+	float: right;
+	margin-right: 10px;
+	margin-top: auto;
+}
+
+div#logo{
+	margin-top: 10px;
+	display: inline-block;
+}
+
+div.cabecera{
+	background-color: #8E8C8C;
+	height: 300px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+* {
+	font-family: raavi;
+}*
+
+div#logo{
+	margin-left: 10px;
+}
+
+div.idioma{
+	float: inherit;
+	margin-left: 10px;
+	margin-right: 30px;
+	display: inline-block;
+}
+
+a {
+	text-decoration: none;
+}
+
+a.espanol{
+	font-size: 20px;
+	color: #776D6D;
+}
+
+a.ingles{
+	font-size: 20px;
+	color: #776D6D;
+}
+
+a.espanol:hover{
+	color: #16A139;
+}
+
+a.ingles:hover{
+	color: #16A139;
+}
+
+
+h5{
+	text-align: center;
+	color: #776D6D;
+}
+
+div.container{
+	width: 965px;
+	margin: 0 auto;
+	background-color: #ffffff;
+}
+
+div.fondo{
+	background-color: #C7C6C6;
+}
+
+p.cuadro {
+	font-size: 19px;
+	color: #7D7777;
+}
+
+#services{
+	text-align: center;
+	display: inline-block;
+}
+
+#sv:hover{
+	background-color: #16A139;
+}
+
+#sv{
+	background-color: #8E8C8C;
+	width: 100px;
+	height: 30px;
+}
+
+#about{
+	text-align: center;
+	display: inline-block;
+}
+
+#at{
+	background-color: #8E8C8C;
+	width: 100px;
+	height: 30px;
+}
+
+#at:hover{
+	background-color: #16A139;
+}
+
+#contact{
+	text-align: center;
+	display: inline-block;
+}
+
+#ct{
+	background-color: #8E8C8C;
+	width: 100px;
+	height: 30px;
+}
+
+#ct:hover{
+	background-color: #16A139;
+}
+
+#fb{
+	text-align:center;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	background-color: #8E8C8C;	
+}
+
+#fb:hover{
+	background-color: #16A139;
+}
+
+#twt{
+	text-align:center;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	background-color: #8E8C8C;
+}
+
+#twt:hover{
+	background-color: #16A139;
+}
+
+#google{
+	text-align:center;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	background-color: #8E8C8C;
+}
+
+#google:hover{
+	background-color: #16A139;
+}
+
+#jade{
+	text-align: center;
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	background-color: #8E8C8C;
+}
+
+#jade:hover{
+	background-color: #16A139;
+}
+
+#cuadro1{
+	display: inline-block;
+	text-align: center;
+	background-color: #ffffff;
+	margin-left: 8px;
+	margin-bottom: 8px;
+	margin-top: 10px;
+	width: 230px;
+	height: 190px;
+}
+
+#cuadro1-1{
+	margin-top: 10px;
+}
+
+#cuadro2{
+	display: inline-block;
+	background-color: #ffffff;
+	text-align: center;
+	margin-left: 5px;
+	width: 230px;
+	height: 190px;
+}
+
+#cuadro2-1{
+	margin-top: 10px;
+}
+
+#cuadro3{
+	display: inline-block;
+	background-color: #ffffff;
+	text-align: center;
+	margin-left: 5px;
+	width: 230px;
+	height: 190px;
+}
+
+#cuadro3-1{
+	margin-top: 10px;
+}
+
+#cuadro4{
+	display: inline-block;
+	background-color: #ffffff;
+	text-align: center;
+	margin-left: 5px;
+	width: 230px;
+	height: 190px;
+}
+
+#cuadro4-1{
+	margin-top: 10px;
+}
+
+/* footer */
+
+p.links{
+	line-height: 10px;
+	margin-left: 15px;
+	color: #ffffff;
+}
+
+p.links:hover{
+	color: #107028;
+}
+
+p.up{
+	font-size: 23px;
+	line-height: 0;
+	margin-top: 5px;
+	margin-left: 15px;
+	color: #ffffff;
+}
+
+p.copy{
+	margin-bottom: 7px;
+	margin-left: 200px;
+	color: #ffffff;
+}
+
+div.area1{
+	width: 180px;
+	margin-top: 10px;
+	background-color: #16A139;
+	display: inline-block;
+	float: left;
+}
+
+div.area2{
+	width: 180px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: #16A139;
+	display: inline-block;
+	float: left;
+}
+
+div.area3{
+	width: 584px;
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: #16A139;
+	display: inline-block;
+	float: left;
+        margin-bottom: 10px;
+}

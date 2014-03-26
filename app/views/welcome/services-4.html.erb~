@@ -1,0 +1,102 @@
+<!DOCTYPE >
+<html>
+	<head>
+		<title>Codigo-Jade</title>
+		<meta charset="UTF-8"/>
+		<link href="css/services.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+		<div class="container">
+			<div class="fondo">
+								<div class="head">
+				<div id="logo">
+					<a href="#"><img src="/assets/icons/logo.png" /></a>
+				</div>
+			<div class="top">
+				<div class="idioma">
+					<a class="ingles" href="#">english</a> / <a class="espanol"href="#">español</a>
+				</div>
+				<div class="redes">
+					<div id="fb">
+						<a href="#"><a href="#"><img id="center"src=" /assets/icons/fb.png"/></a>
+					</div>
+					<div id="twt">
+						<a href="#"><img id="center" src="/assets/icons/basics (15).png"/></a>
+					</div>
+					<div id="google">
+						<a href="#"><img id="center" src="/assets/icons/basics (16).png"/></a>
+					</div>
+					<div id="jade">
+						<a href="#"><img id="center" src="/assets/icons/basics (17).png"/></a>
+					</div>
+				</div>
+					<div class="menu">
+						<div id="services">
+							<a href="index.html"><p id="sv">services</p></a>
+						</div>
+						<div id="about">
+							<a href="about.html"><p id="at">about us</p></a>
+						</div>
+						<div id="contact">
+							<a href="contact.html"><p id="ct">contact</p></a>
+						</div>
+					</div>
+				</div>
+			</div>
+				<div class="cabecera">
+				<!-- Aquí comienza la web -->
+		<div id="extra3"></div>	
+				<img id="right_img" src="/assets/icons/basics (10).png" />
+				<div id="extra"></div>	
+				<!--<p id="title">web design</p>
+				<p id="stitle">Cutting edge design for your very own place</p>
+				<p id="description">we work to develop unique and fresh web sites that are easy fo the user to understand
+					and navigate.
+					Wheter is creating a new page from scrath or to makeover an existing one, our goal is
+					to connect you whit your audience like never before.</p>-->
+		<div id="extra"></div>		
+			</div>
+			<div class="cuadros">
+				<a href="services-1.html"><div id="cuadro1">
+					<img id="cuadro1-1" src="/assets/icons/basics (2).png"/>
+					<p class="cuadro">Software Development</p>
+				</div></a>
+				<a href="services-2.html"><div id="cuadro2">
+					<img id="cuadro2-1" src="/assets/icons/basics (3).png"/>
+					<p class="cuadro">web design</p>
+				</div></a>
+				<a href="services-3.html"><div id="cuadro3">
+					<img id="cuadro3-1" src="/assets/icons/basics (1).png"/>
+					<p class="cuadro">content management</p>
+				</div></a>
+				<a href="services-4.html"><div id="cuadro4" style="background-color:#16A139;">
+					<img id="cuadro4-1" src="/assets/icons/basics (8).png"/>
+					<p class="cuadro_selected">continuum support</p>
+				</div></a>
+			</div>
+		</div>
+		<div class="footer">
+			<div class="area1">
+				<div id="extra"></div>
+					<p class="up">codigo jade</p>
+					<a href="#"><p class="links">About Us</p></a>
+					<a href="#"><p class="links">Jobs</p></a>
+					<a href="#"><p class="links">Opensource</p></a>
+			</div>
+			<div class="area2">
+				<div id="extra"></div>
+					<p class="up">social jade</p>
+					<a href="#"><p class="links">facebook</p></a>
+					<a href="#"><p class="links">twitter</p></a>
+					<a href="#"><p class="links">google plus</p></a>
+			</div>
+			<div class="area3">
+				<div id="extra"></div>
+					<p class="up">blog jade</p>
+					<a href="#"><p class="links">[lorem ipsum dolor sit amet, consectetur adipiscing]</p></a>
+					<a href="#"><p class="links">[sit amet, consectetur adipiscing]</p></a>
+					<p class="copy">&copy 2009-2014 codigo jade. all rights reserved.</p>
+			</div>
+		</div	
+	</body>
+</html>
