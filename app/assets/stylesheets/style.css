@@ -131,6 +131,24 @@ div.container{
 	background-color: #ffffff;
 }
 
+div#contenedor{
+	line-height: 5px;
+	position: absolute;
+}
+
+p#softy{
+	margin-left: 195px;
+	color:#ffffff;
+	font-size: 80px;
+}
+
+p#ideas{
+	color:#ffffff;
+	font-size: 70px;
+	margin-left: 175px;
+}
+
+
 div.fondo{
 	background-color: #C7C6C6;
 }

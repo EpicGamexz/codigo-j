@@ -30,6 +30,7 @@ p#textl{
 	line-height: 23px;
 	display:block;
 	color: #ffffff;
+	margin-top: 10px;
 }
 
 div.head{
@@ -209,12 +210,14 @@ p.cuadro {
 
 /* Contenido de la web */
 
+div#conty{
+	margin-bottom: 10px;
+}
+
 div.intro{
 	width: 940px;
 	height: 100px;
-	background-color: 16A139;
-	margin: 0 auto;
-	margin-top: 10px;
+	background-color: #16A139;
 }
 
 p#titles{
@@ -236,11 +239,10 @@ div#extra{
 	height: 14px;
 }
 
-div#cnt{
-	margin-top: 10px;
-	height: 80px;
-	margin-bottom: 10px;
+div#extra4{
+	height: 10px;
 }
+
 
 /* Personal*/
 

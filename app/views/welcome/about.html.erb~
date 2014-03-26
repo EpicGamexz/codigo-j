@@ -44,12 +44,13 @@
 				</div>
 			</div>
 											<!-- Aquí comienza la web -->
+			<div id="conty">
 			<div class="intro">
-				<div id="cnt"><p id="textl">
+<p id="textl">
 <a id="made">made of jade</a>
-we're a small group of passionate web and mobile software developers, who likes to work hand by hand with flexibility and efficiency. building things that can bring joy and usability to the people who use them is what we love to do!</p></div>
-			</div>
-<div id="extra"></div>
+we're a small group of passionate web and mobile software developers, who likes to work hand by hand with flexibility and efficiency. building things that can bring joy and usability to the people who use them is what we love to do!</p>
+</div>
+</div>
 		<div class="personal">
 			<table>
   <tr>
@@ -57,6 +58,7 @@ we're a small group of passionate web and mobile software developers, who likes 
 	<a href="#"><img src="/assets/icons/top.png" /></a>
 	</th>
   </tr>
+  <td><br></td>
   <tr>
     <td>
     	<a href="#"><img id="developer" src="/assets/icons/perfil.gif"/></a>
@@ -72,6 +74,7 @@ we're a small group of passionate web and mobile software developers, who likes 
     </td>
     <td><p id="text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed, do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis</p></td>
   </tr>
+  <td><br></td>
     <tr>
     <th colspan="5">
 	<a href="#"><img src="/assets/icons/down.png" /></a>

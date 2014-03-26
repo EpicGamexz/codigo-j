@@ -45,13 +45,14 @@
 			</div>
 				<div class="cabecera">
 				<!-- Aquí comienza la web -->
-		<div id="extra3"></div>	
 				<img id="right_img" src="/assets/icons/basics (12).png" />
 				<div id="extra"></div>	
-				<p id="title">software development</p>
-				<p id="stitle">do you have an idea? let us help you to get outside the box!</p>
-				<p id="description">we transform your idea into a fully functional web and mobile application designed to fit your personal need.</p>
-		<div id="extra"></div>		
+					<div id="contenedor">
+						<p>software development</p>
+						<p>do you have an idea? let us help you to get outside the box!</p>
+						<p>we transform your idea into a fully functional web and mobile application designed to fit your personal need.</p>
+		<div id="extra"></div>	
+					</div>	
 			</div>
 			<div class="cuadros">
 				<a href="services-1.html"><div id="cuadro1"  style="background-color:#16A139;">

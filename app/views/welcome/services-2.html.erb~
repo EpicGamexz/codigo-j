@@ -46,14 +46,12 @@
 				<div class="cabecera">
 				<!-- Aquí comienza la web -->
 		<div id="extra3"></div>	
-				<img id="right_img" src="images/icons/basics (11).png" />
-				<div id="extra"></div>	
-				<!--<p id="title">web design</p>
-				<p id="stitle">Cutting edge design for your very own place</p>
-				<p id="description">we work to develop unique and fresh web sites that are easy fo the user to understand
-					and navigate.
-					Wheter is creating a new page from scrath or to makeover an existing one, our goal is
-					to connect you whit your audience like never before.</p>-->
+				<img id="right_img" src="/assets/icons/basics (11).png" />
+				<div id="extra"></div>
+				<div id="contenedor">
+					<p id="soft">web design</p>
+					<p id="idea">cutting edge design for your very own place</p>
+					<p id="trans">we work to develop unique and fresh web sites that area easy for the user to understand.</p>	
 		<div id="extra"></div>		
 			</div>
 			<div class="cuadros">
